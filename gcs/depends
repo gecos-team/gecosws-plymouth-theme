@@ -1,0 +1,7 @@
+## DEPENDS
+# This file contains depends 
+## END
+
+plymouth
+plymouth-themes
+
