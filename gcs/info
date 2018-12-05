@@ -1,0 +1,26 @@
+# YAML 1.1
+# Fichero de personalización de plymouth de GECOS
+
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: gecosws-plymouth-theme
+
+# Autor 
+author: Abraham Macias Paredes <amacias@gruposolutia.com>
+
+# Priority
+priority: optional
+
+# Section
+section: metapackages
+
+shortdesc: "GECOS plymouth theme"
+
+longdesc: "This package contains the plymouth theme for GECOS."
+
+# Versión del paquete
+version: 1.0
+
+# Cambios en esta versión
+changes:
+    - initial release
