@@ -4,7 +4,7 @@ Description=GECOS text mode theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=GECOS v4
+title=GECOS v5
 black=0x000000
 white=0xFFFFFF
 brown=0x9cee00
